@@ -52,7 +52,7 @@ SERIAL CONNECTION:
 
 ## How to use
 
-The **General** page provides configuration options for the displayed matrix. You can define the **number of inputs and outputs** here. The maximum number of inputs and outputs that can be configured is 32. If the response received from the device does not match the configured settings, a warning will be displayed.
+The **General** page provides configuration options for the displayed matrix. You can define the **number of inputs and outputs** and choose the **matrix level** to request information. The maximum number of inputs and outputs that can be configured is 32. If the response received from the device does not match the configured settings, a warning will be displayed.
 
 On the same page, you can also select the **type of view** you prefer for the device. The following options are available:
 
